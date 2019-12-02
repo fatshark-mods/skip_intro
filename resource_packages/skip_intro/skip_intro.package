@@ -1,0 +1,11 @@
+mod = [
+	"skip_intro"
+]
+
+package = [
+	"resource_packages/skip_intro/skip_intro"
+]
+
+lua = [
+	"scripts/mods/skip_intro/*"
+]
